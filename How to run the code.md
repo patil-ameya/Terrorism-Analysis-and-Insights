@@ -1,4 +1,4 @@
-# Terrorism-Analysis-and-Insights
+# Terrorism-Analysis-and-Insights:
 
 How to run the code in your PC.
 First create a folder with any name in your PC.
