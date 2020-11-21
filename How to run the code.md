@@ -6,3 +6,9 @@ Then download the dataset file in csv format from the link inside global_terror 
 Then create a folder inside with name assets the download and keep the favicon.ico file in there.
 Then open your python compiler, copy the code there and save the program file in the first folder you created.
 After this when you run the code , it should open a localhost webpage on your default browser and your code will run.
+
+# PACKAGES INSTALLED:
+1. DASH : pip install dash
+2. PLOTLY : pip install plotly
+3. WEBBROWSER : pip install webbrowser
+4. PANDAS : pip install pandas
